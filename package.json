@@ -1,0 +1,19 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnehaJaiswal123/Task-Manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnehaJaiswal123/Task-Manager/issues"
+  },
+  "homepage": "https://github.com/SnehaJaiswal123/Task-Manager#readme"
+}
